@@ -1,0 +1,14 @@
+C:\Users\atoro\source\repos\TiendaVideojuegos\TiendaVideojuegos\bin\Debug\net6.0\TiendaVideojuegos.exe
+C:\Users\atoro\source\repos\TiendaVideojuegos\TiendaVideojuegos\bin\Debug\net6.0\TiendaVideojuegos.deps.json
+C:\Users\atoro\source\repos\TiendaVideojuegos\TiendaVideojuegos\bin\Debug\net6.0\TiendaVideojuegos.runtimeconfig.json
+C:\Users\atoro\source\repos\TiendaVideojuegos\TiendaVideojuegos\bin\Debug\net6.0\TiendaVideojuegos.dll
+C:\Users\atoro\source\repos\TiendaVideojuegos\TiendaVideojuegos\bin\Debug\net6.0\TiendaVideojuegos.pdb
+C:\Users\atoro\source\repos\TiendaVideojuegos\TiendaVideojuegos\obj\Debug\net6.0\TiendaVideojuegos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atoro\source\repos\TiendaVideojuegos\TiendaVideojuegos\obj\Debug\net6.0\TiendaVideojuegos.AssemblyInfoInputs.cache
+C:\Users\atoro\source\repos\TiendaVideojuegos\TiendaVideojuegos\obj\Debug\net6.0\TiendaVideojuegos.AssemblyInfo.cs
+C:\Users\atoro\source\repos\TiendaVideojuegos\TiendaVideojuegos\obj\Debug\net6.0\TiendaVideojuegos.csproj.CoreCompileInputs.cache
+C:\Users\atoro\source\repos\TiendaVideojuegos\TiendaVideojuegos\obj\Debug\net6.0\TiendaVideojuegos.dll
+C:\Users\atoro\source\repos\TiendaVideojuegos\TiendaVideojuegos\obj\Debug\net6.0\refint\TiendaVideojuegos.dll
+C:\Users\atoro\source\repos\TiendaVideojuegos\TiendaVideojuegos\obj\Debug\net6.0\TiendaVideojuegos.pdb
+C:\Users\atoro\source\repos\TiendaVideojuegos\TiendaVideojuegos\obj\Debug\net6.0\TiendaVideojuegos.genruntimeconfig.cache
+C:\Users\atoro\source\repos\TiendaVideojuegos\TiendaVideojuegos\obj\Debug\net6.0\ref\TiendaVideojuegos.dll

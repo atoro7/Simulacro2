@@ -1,0 +1,16 @@
+
+	Problema 1
+Si, para no perder el registro de los inscriptos en cada clase
+No, una lista
+
+	Problema 2
+No, porque cualquier mascota va a tener lo mismo atributos
+No
+
+	Problema 3
+No, no es necesario
+No, podría usar una Queue
+
+	Problema 4
+No, una lista
+Si, ya que no se podría prestar un libro que no esta disponible
