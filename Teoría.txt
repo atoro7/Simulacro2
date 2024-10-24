@@ -1,16 +1,17 @@
 
 	Problema 1
-Si, para no perder el registro de los inscriptos en cada clase
-No, una lista
+No, porque las clases son estaticas y no van cambiar mucho
+Si, y se podría usar id para encontrar a los usuarios facilmente
 
 	Problema 2
-No, porque cualquier mascota va a tener lo mismo atributos
-No
+Si, ya que se re quiere proteger la informacion del historial medico por ejemplo
+No, ya que se enfoca mas en la informacion de la mascota
 
 	Problema 3
-No, no es necesario
-No, podría usar una Queue
+Si, sería mas optimo que crear una clase cancha
+No, porque las reservas no tienen un orden
 
 	Problema 4
-No, una lista
-Si, ya que no se podría prestar un libro que no esta disponible
+No, se debría usar una lista por ejemplo
+Si, ya que no se podría prestar un libro que no esta disponible, y porque 
+se debe guardar el prestamo por 2 semanas
